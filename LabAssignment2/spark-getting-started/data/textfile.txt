@@ -1,0 +1,9 @@
+Every 8 seconds or so, a developer asks a question on Stack Overflow. This year, 56,033 coders in 173 countries answered the call.
+
+We asked them 45 questions. Key highlights include the following:
+
+Developers love Rust. Even back-end developers know JavaScript. Only 7% of developers identify as "rockstars". Most developers prefer dogs to cats. (But not developers in Germany.)
+
+Surveys aren’t perfect. While our large sample size helps offset some biases, it’s still biased against devs who don't speak English, or who don't like taking English-language surveys. In some sections we've augmented the results with insights gleaned from the activity of Stack Overflow's 40 million monthly visitors. If you’re an employer, we’d be happy to help you reach those developers. If you're a developer (you're probably a developer), we hope you sign up.
+
+Throughout these results we'll be using the terms "developers", "devs", and "respondents" interchangeably. We’ll also be keeping commas outside quotation marks, because that’s what developers do.
