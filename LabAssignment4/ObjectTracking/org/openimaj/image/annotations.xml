@@ -1,0 +1,5 @@
+<root>
+  <item name='org.openimaj.image.ImageUtilities org.openimaj.image.MBFImage readMBF(java.io.File)'>
+    <annotation name='org.jetbrains.annotations.Nullable'/>
+  </item>
+</root>

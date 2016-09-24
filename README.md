@@ -6,3 +6,5 @@ Lab1 - https://github.com/manikantamaddula/RBD_LabAssignments/wiki/LabAssignment
 Lab2 - https://github.com/manikantamaddula/RBD_LabAssignments/wiki/LabAssignment2
 
 Lab3 - https://github.com/manikantamaddula/RBD_LabAssignments/wiki/LabAssignment3
+
+Lab4 - https://github.com/manikantamaddula/RBD_LabAssignments/wiki/LabAssignment4
